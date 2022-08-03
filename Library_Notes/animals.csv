@@ -1,0 +1,7 @@
+,Animals,Age,Visits,Priority
+U,Cats,,3.0,Yes
+V,Dogs,6.0,,No
+W,Horse,11.0,4.0,Yes
+X,Lion,7.0,,No
+Y,Tiger,10.0,4.0,No
+Z,Elephant,,, Yes
